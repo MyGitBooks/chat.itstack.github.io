@@ -1,28 +1,28 @@
-# 《虫洞  ·  技术栈》
+# 憨憨语约 | 虫洞 · 科技栈
 
 [![stars](https://badgen.net/github/stars/fuzhengwei/itstack?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/itstack) [![forks](https://badgen.net/github/forks/fuzhengwei/itstack?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/itstack) [<img src="https://itstack.org/_media/wxbugstack.svg">](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
 
-> 本文档是作者小傅哥多年从事一线互联网```Java```开发的学习历程技术汇总，旨在为大家提供一个较清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本文能为您提供帮助，请给予支持(关注、点赞、分享)！
+> 本项目是作者小傅哥使用技术栈```JavaFx```、```Netty4.x```、```SpringBoot```、```Mysql```等，搭建的仿桌面版微信聊天工程，实现通信核心功能。意在技术实战侧重于将技术落地。如果本项目能为您提供帮助，请给予支持(关注、点赞、分享)！
 
-> 为 Java 高级编程以及技能拓展打造的一个博客站点 [:memo: bugstack虫洞栈](https://bugstack.cn)
+> 为 Java 高级编程以及技能拓展打造的一个博客站点 [:bug: bugstack虫洞栈](https://bugstack.cn)
 
-**如何支持：**
-- 关注公众号 [bugstack虫洞栈](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
-- 点击右上角Star :star: 给予关注
-- 分享给您身边更多的小伙伴
+ **如何支持：**
+ - 关注公众号 [bugstack虫洞栈](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
+ - 点击右上角Star :star: 给予关注
+ - 分享给您身边更多的小伙伴
+ 
+ > **作者：** 小傅哥，Java Developer，[CSDN 博客专家](https://bugstack.blog.csdn.net)
 
-> **作者：** 小傅哥，Java Developer，[CSDN 博客专家](https://bugstack.blog.csdn.net)
+## 项目演示
 
-## 技术栈目录
+**登陆页面**
+![登陆页面](http://chat.itstack.org/assets/img/2020/ui-00.png)
 
-* [`Java基础编程`](/notes/itstack-demo-any.md)
-* [`用Java实现jvm虚拟机`](/notes/itstack-demo-jvm.md)
-* [`Spring系列源码解读`](/notes/itstack-demo-code.md)
-* [`Netty4.x专题`](/notes/itstack-demo-netty.md)
-* [`DDD领域驱动设计`](/notes/itstack-demo-ddd.md)
-* [`中间件开发`](/notes/itstack-demo-middleware.md)
-* [`JavaAgent全链路监控`](/notes/itstack-demo-agent.md)
-* [`架构框架搭建`](/notes/itstack-demo-frame.md)
+**聊天页面**
+![聊天页面](http://chat.itstack.org/assets/img/2020/ui-01.png)
+
+**添加好友**
+![添加好友](http://chat.itstack.org/assets/img/2020/ui-02.png)
 
 ##  转载分享
 
