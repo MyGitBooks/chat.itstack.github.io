@@ -11,6 +11,12 @@
  - 点击右上角Star :star: 给予关注
  - 分享给您身边更多的小伙伴
 
+----
+
+## 功能概况
+
+![功能概况](http://chat.itstack.org/assets/img/2020/p-xmind.png)
+
 ## 项目演示
 
 >登陆页面
@@ -24,10 +30,6 @@
 >添加好友
 
 ![添加好友](http://chat.itstack.org/assets/img/2020/ui-02.png)
-
-> 功能概况
-
-![功能概况](http://chat.itstack.org/assets/img/2020/p-xmind.png)
 
 ##  转载分享
 
