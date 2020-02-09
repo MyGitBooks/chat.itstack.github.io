@@ -6,7 +6,7 @@
 
 > **作者：** 小傅哥，Java Developer，[:trophy: CSDN 博客专家](https://bugstack.blog.csdn.net)，[:bug: bugstack虫洞栈](https://bugstack.cn)
 
- **如何支持：**
+**如何支持：**
  - 关注公众号 [bugstack虫洞栈](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
  - 点击右上角Star :star: 给予关注
  - 分享给您身边更多的小伙伴
@@ -24,6 +24,10 @@
 >添加好友
 
 ![添加好友](http://chat.itstack.org/assets/img/2020/ui-02.png)
+
+> 功能概况
+
+![功能概况](http://chat.itstack.org/assets/img/2020/p-xmind.png)
 
 ##  转载分享
 
