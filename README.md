@@ -1,4 +1,4 @@
-# 《憨憨 · 语约》 | 虫洞 · 科技栈
+# 《憨憨 · 语约》 | 《Netty+JavaFx实战：仿桌面版微信聊天》
 
 [![stars](https://badgen.net/github/stars/MyGitBooks/itstack.github.io?icon=github&color=4ab8a1)](https://github.com/MyGitBooks/itstack.github.io) [![forks](https://badgen.net/github/forks/MyGitBooks/itstack.github.io?icon=github&color=4ab8a1)](https://github.com/MyGitBooks/itstack.github.io) [<img src="https://itstack.org/_media/onlinebook.svg">](http://chat.itstack.org) [<img src="https://itstack.org/_media/wxbugstack.svg">](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
 
