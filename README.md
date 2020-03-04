@@ -2,7 +2,7 @@
 
 [![stars](https://badgen.net/github/stars/MyGitBooks/chat.itstack.github.io?icon=github&color=4ab8a1)](https://github.com/MyGitBooks/chat.itstack.github.io) [![forks](https://badgen.net/github/forks/MyGitBooks/chat.itstack.github.io?icon=github&color=4ab8a1)](https://github.com/MyGitBooks/chat.itstack.github.io) [<img src="https://itstack.org/_media/onlinebook.svg">](http://chat.itstack.org) [<img src="https://itstack.org/_media/wxbugstack.svg">](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
 
-> 本项目是作者小傅哥使用技术栈```JavaFx```、```Netty4.x```、```SpringBoot```、```Mysql```等，搭建的仿桌面版微信聊天工程实现通信核心功能。如果本项目能为您提供帮助，请给予支持(关注、点赞、分享)！
+> 本专栏是作者小傅哥使用```JavaFx```、```Netty4.x```、```SpringBoot```、```Mysql```等技术栈和偏向于DDD领域驱动设计方式，搭建的仿桌面版微信聊天工程实现通信核心功能。如果本项目能为您提供帮助，请给予支持(关注、点赞、分享)！
 
 > **作者：** 小傅哥，Java Developer，[:trophy: CSDN 博客专家](https://bugstack.blog.csdn.net)，[:pencil2: 虫洞 · 科技栈，编写者](https://bugstack.cn)
 
