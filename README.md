@@ -9,7 +9,7 @@
 **如何支持：**
  - 关注公众号 [bugstack虫洞栈](https://itstack.org/_media/qrcode.png?x-oss-process=style/may)
  - 点击右上角Star :star: 给予关注
- - 购买GitChat专栏课程 [```24篇 ~~原价39元~~``` 限时特价29元](#)
+ - 购买GitChat本课程专栏 [```24篇``` ~~原价39元~~ 限时特价29元](#)
  - 赏个鸡腿🍗
 
     ![](https://bugstack.cn/assets/images/tip.jpg)
